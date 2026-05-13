@@ -37,4 +37,4 @@ The full API pipeline is already implemented in `realProcessing()`.
 
 ## Design decisions
 
-See CoachBetter_Design_Guide_v2 for a full explanation of every design and code choice.
+See [CoachBetter_Design_Guide_v2](https://github.com/tidianekhan/coachbetter-ai/blob/main/CoachBetter_Design_Guide_v2.docx) for a full explanation of every design and code choice.
