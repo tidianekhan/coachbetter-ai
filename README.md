@@ -37,4 +37,4 @@ The full API pipeline is already implemented in `realProcessing()`.
 
 ## Design decisions
 
-See [DESIGN_GUIDE.md](./DESIGN_GUIDE.md) for a full explanation of every design and code choice.
+See CoachBetter_Design_Guide_v2 for a full explanation of every design and code choice.
